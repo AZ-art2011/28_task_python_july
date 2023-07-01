@@ -1,3 +1,5 @@
+# Задача 28
+
 def sum_rec(a, b):
     if a == 0:
         return b
